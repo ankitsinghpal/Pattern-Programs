@@ -11,11 +11,11 @@ int main() {
 	int r,c;
 	cin>>r>>c;
 	
-	for(int i=0;i<r;i++)
+	for(int i=1;i<=r;i++)
 	{
-	    for(int j=0;j<c;j++)
+	    for(int j=1;j<=c;j++)
 	    {
-	        if(i==0 || i==r-1 || j==0 || j==c-1)
+	        if(i==1 || i==r || j==1 || j==c)
 	            cout<<"* ";
 	       else cout<<"  ";
 	    }
