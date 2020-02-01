@@ -17,24 +17,23 @@ int main() {
 	cin>>n;
 	
 	int count=1;
-	cout<<"1\n";
-	for(int i=1;i<n;i++)
+	
+	for(int i=1;i<=n;i++)
 	{
 	     
-	   for(int j=1;j<=i;j++)
+	   for(int j=1;j<i;j++)
 	   {
 	       cout<<count;
 	       count++;
 	   }
-	   if(count>1)
-    	   for(int j=1;j<=i;j++)
+	   
+    	   for(int j=1;j<i;j++)
     	   {
     	       cout<<count;
     	       count--;
-    	       if(count==0)
-    	        break;
+    	       
     	   }
-        cout<<"1";	  
+           cout<<"1";	  
 	   count=1;
 	   cout<<endl;
 	}
