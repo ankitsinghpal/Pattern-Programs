@@ -5,20 +5,22 @@ int main() {
 	/*
 	INPUT :     5
 	
-	OUTPUT :    *****
-            	****
-            	***
-            	**
-            	*
+	OUTPUT :    
+	            *****
+	            ****
+	            ***
+	            **
+	            *
 	*/
 	int n;
 	cin>>n;
 	
-	for(int i=0;i<n;i++)
+	for(int i=1;i<=n;i++)
 	{
-	   for(int j=i;j<n;j++)
+	   for(int j=n;j>=i;j--)
 	        cout<<"*";
 	   cout<<endl;
 	}
+	
 	return 0;
 }
