@@ -5,7 +5,7 @@ int main() {
 	/*
 	INPUT :     5
 	
-	OUTPUT :            * 
+	OUTPUT :        * 
                       * * * 
                     * * * * * 
                   * * * * * * * 
