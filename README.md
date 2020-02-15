@@ -48,7 +48,17 @@ OUTPUT :
                1234321
               123454321
              12345654321
-5.
+# 5.
+INPUT :     6
+	
+OUTPUT :
+
+                  A
+                 ABA
+                ABCBA
+               ABCDCBA
+              ABCDEDCBA
+             ABCDEFEDCBA
 6.
 7.
 8.
