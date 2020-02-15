@@ -174,6 +174,7 @@ OUTPUT :
 INPUT :     6
 	
 OUTPUT :
+
      1
      
     11
