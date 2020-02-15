@@ -20,11 +20,15 @@
 # 17. 
 INPUT : 5.
 OUTPUT :.
-\* 1 \*
+1
 
-11.
-101.
-1001.
-1111.
- # 18 Spiral Pattern 
+11
+
+101
+
+1001
+
+1111
+
+# 18 Spiral Pattern 
  
