@@ -81,15 +81,17 @@ OUTPUT :
 
 
 INPUT  :   5
+
 OUTPUT :
 
-	   5432*
+            5432*
            543*1
            54*21
            5*321
            *4321
            
 INPUT  :   3
+
 OUTPUT :
 
            32*
@@ -97,6 +99,7 @@ OUTPUT :
            *21
 
 INPUT  :   1
+
 OUTPUT :   
        	   
 	   *
